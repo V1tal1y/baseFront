@@ -1,0 +1,29 @@
+@import "vars";
+
+@media screen and (max-width: 1400px ){
+    .containr{
+        width: 940px;
+    }
+}
+@media screen and (max-width: 950px ){
+    .containr{
+        width: 740px;
+    }
+}
+@media screen and (max-width: 750px ){
+    .containr{
+        width: 540px;
+    }
+}
+@media screen and (max-width: 550px ){
+    .containr{
+        width: 440px;
+    }
+}
+@media screen and (max-width: 450px ){
+    .containr{
+        width: 100%;
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+}
